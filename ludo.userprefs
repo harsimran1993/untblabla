@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\GameManager.cs">
+    <Files>
+      <File FileName="Assets\scripts\BoardManager.cs" Line="328" Column="7" />
+      <File FileName="Assets\scripts\GameManager.cs" Line="81" Column="36" />
+      <File FileName="Assets\scripts\interface\rotate.cs" Line="48" Column="65" />
+      <File FileName="Assets\scripts\Player.cs" Line="55" Column="27" />
+      <File FileName="Assets\scripts\node.cs" Line="8" Column="33" />
+      <File FileName="Assets\scripts\pawn.cs" Line="16" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
